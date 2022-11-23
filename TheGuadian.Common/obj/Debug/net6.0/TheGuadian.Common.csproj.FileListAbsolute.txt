@@ -1,0 +1,15 @@
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\bin\Debug\net6.0\TheGuadian.Common.exe
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\bin\Debug\net6.0\TheGuadian.Common.deps.json
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\bin\Debug\net6.0\TheGuadian.Common.runtimeconfig.json
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\bin\Debug\net6.0\TheGuadian.Common.dll
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\bin\Debug\net6.0\TheGuadian.Common.pdb
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.csproj.AssemblyReference.cache
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.AssemblyInfoInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.AssemblyInfo.cs
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.csproj.CoreCompileInputs.cache
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.dll
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\refint\TheGuadian.Common.dll
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.pdb
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\TheGuadian.Common.genruntimeconfig.cache
+D:\LaCasaDePapel\SiGG\SiGG-TheGuadian-rest-api-service\TheGuadian.Common\obj\Debug\net6.0\ref\TheGuadian.Common.dll
