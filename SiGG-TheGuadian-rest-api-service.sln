@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiGG-TheGuadian-rest-api-service", "SiGG-TheGuadian-rest-api-service\SiGG-TheGuadian-rest-api-service.csproj", "{59145E9B-D7C9-443C-AEF8-3FBCF5F23FA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGuadian.Client", "TheGuadian.Client\TheGuadian.Client.csproj", "{6DF353DA-4828-4A51-80D1-5744804E4FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGuadian.Common", "TheGuadian.Common\TheGuadian.Common.csproj", "{1C1D5981-2BB7-44EB-A2E2-2835C06548D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGuadian.TestWebApp", "TheGuadian.TestWebApp\TheGuadian.TestWebApp.csproj", "{283EFEE8-BC12-4E43-B4B9-9F39E4684914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGuadian.Server", "TheGuadian.Server\TheGuadian.Server.csproj", "{CF321AE2-94CE-4B0D-BAB9-3312E4B0A70A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59145E9B-D7C9-443C-AEF8-3FBCF5F23FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59145E9B-D7C9-443C-AEF8-3FBCF5F23FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59145E9B-D7C9-443C-AEF8-3FBCF5F23FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59145E9B-D7C9-443C-AEF8-3FBCF5F23FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF353DA-4828-4A51-80D1-5744804E4FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF353DA-4828-4A51-80D1-5744804E4FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF353DA-4828-4A51-80D1-5744804E4FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF353DA-4828-4A51-80D1-5744804E4FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1D5981-2BB7-44EB-A2E2-2835C06548D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1D5981-2BB7-44EB-A2E2-2835C06548D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1D5981-2BB7-44EB-A2E2-2835C06548D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1D5981-2BB7-44EB-A2E2-2835C06548D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283EFEE8-BC12-4E43-B4B9-9F39E4684914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283EFEE8-BC12-4E43-B4B9-9F39E4684914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283EFEE8-BC12-4E43-B4B9-9F39E4684914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283EFEE8-BC12-4E43-B4B9-9F39E4684914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF321AE2-94CE-4B0D-BAB9-3312E4B0A70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF321AE2-94CE-4B0D-BAB9-3312E4B0A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF321AE2-94CE-4B0D-BAB9-3312E4B0A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF321AE2-94CE-4B0D-BAB9-3312E4B0A70A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
